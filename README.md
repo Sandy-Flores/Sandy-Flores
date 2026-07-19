@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Sandra Flores 👋
 
-<!--
-**Sandy-Flores/Sandy-Flores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzada de Ingeniería Civil y Maestra Mayor de Obras, enfocada en la digitalización, modelado estructural y la metodología BIM.
 
-Here are some ideas to get you started:
+### 🛠️ Herramientas y Tecnologías
+* **Modelado y Diseño:** AutoCAD, Revit (BIM)
+* **Cálculo Estructural:** SAP2000, ETABS, Plaxis
+* **Intereses:** Automatización de procesos, diseño vial y gestión ambiental
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objetivos
+Actualmente busco sumar valor en proyectos de ingeniería y diseño técnico de forma remota, aplicando herramientas de vanguardia para optimizar estructuras y flujos de trabajo.
+
+📧 sf.floressandra@gmail.com | 💼 https://www.linkedin.com/in/sandra-flores-a99a5097
